@@ -1,0 +1,30 @@
+.sm {
+    font-family: open sans, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+s {
+    font-family: serif;
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 700;
+}
+
+.n2 {
+    text-transform: uppercase;
+}
+
+.n3 {
+    word-spacing: 30px;
+    color: rgb(105, 21, 184);
+    font-weight: 500;
+    text-decoration: wavy overline
+}
+.n4 {
+    text-decoration: underline;
+    letter-spacing: 5px;
+    font-weight: 500;
+}
