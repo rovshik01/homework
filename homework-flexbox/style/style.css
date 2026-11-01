@@ -1,0 +1,51 @@
+html{
+    font-family: sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.container{
+    min-width: 1320px;
+    padding: 0 15px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #444;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.nav-list{
+    display: flex;
+    gap: 25px;
+}
+
+.nav-link, 
+.phone {
+    color: black;
+}
+
+.phone{
+    text-decoration: none;
+}
